@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700|family=Montserrat:400,600,900');
+
+
+.home {    
+    margin: 30px auto 30px auto;
+}
+
+.home a{
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 1em;
+    letter-spacing: .4em;
+    margin-top: 0px;
+    text-decoration: none;
+    color: #342E37;
+}
+
+.home a:hover{
+    color: #FAFFFD;
+}
+
+.logo {
+    width: 70px;
+    margin-bottom: 8px;
+}
+
+.p_title{
+    margin: 30px auto 40px auto;
+}
+
+.project {
+    font-family: Poppins;
+    font-weight: 700;
+    font-size:2em;
+    letter-spacing: .4em;
+    color: #FFFD82;
+}
+    
+.container {
+    background-color: #3C91E6;
+    height: 800px;
+    
+}
+
+
+
+.canvas {
+    width:250px;
+    height:370px;
+    background-color: #FFF;
+    position: relative;
+    margin: auto;
+}
+
+.homework {
+  position: relative; 
+  top: 10px;
+  width:230px;
+  height:350px;
+  margin: auto;
+    
+  background: #A2D729; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(0deg, #FFFD82, #A2D729 , #A2D729, #FFFD82); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(0deg, #FFFD82, #A2D729 , #A2D729, #FFFD82); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(0deg, #FFFD82, #A2D729 , #A2D729, #FFFD82); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(0deg, #FFFD82, #A2D729 , #A2D729, #FFFD82); /* Standard syntax */ 
+}
+
+.ice {
+    position: relative; 
+    margin: auto;
+    width:230px;
+    height:350px;
+    background-image: url(../rcs/ice.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.text1 {
+    font-family: Montserrat, sans-serif;
+    text-align: left;
+    font-weight: 700;
+    font-size:.6em;
+    color: #342E37;
+    left: 10px;
+    position: absolute;
+
+    
+}
+
+.text2 {
+    font-family: Montserrat, sans-serif;
+    text-align: right;
+    font-weight: 700;
+    font-size:.6em;
+    color: #342E37;
+    position: absolute;
+    bottom: 10px;
+    right: 10px
+}
+
+.text3 {
+    font-family: Montserrat, sans-serif;
+    color: #342E37;
+    font-weight: 900;
+    font-size:2em;
+    right: 10px;
+    top: -20px;
+    position: absolute;
+
+}
+
+.text4 {
+    font-family: Montserrat, sans-serif;
+    color: #342E37;
+    font-weight: 400;
+    font-size:1.5em;
+    left: 20px;
+    top: 90px;
+    position: absolute;
+    line-height: 1em;
+
+}
+
+.doble{
+    line-height: 1.5em;
+}

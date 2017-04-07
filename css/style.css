@@ -1,0 +1,91 @@
+/*@import url('https://fonts.googleapis.com/css?family=Poppins:400,700');*/
+@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700|Poppins:400,700');
+
+
+.home {    
+    margin: 30px auto 30px auto;
+}
+
+.home a{
+    font-family: Poppins, sans-serif;
+    font-weight: 700;
+    font-size: 1em;
+    letter-spacing: .4em;
+    margin-top: 0px;
+    text-decoration: none;
+    color: #342E37;
+}
+
+.home a:hover{
+    color: #FAFFFD;
+}
+
+.logo {
+    width: 70px;
+    margin-bottom: 8px;
+}
+
+.p_title{
+    margin: 30px auto 40px auto;
+}
+
+.project {
+    font-family: Poppins;
+    font-weight: 700;
+    font-size:2em;
+    letter-spacing: .4em;
+    color: #fafffd;
+}
+    
+.container {
+    background-color: #3C91E6;
+    height: 800px;
+}
+
+.canvas {
+    width:auto;
+    height:370px;
+
+    padding: 15px 0px
+  
+}
+
+.lista {
+    list-style: none;
+    padding:0px;
+    font-family: Inconsolata;
+    font-weight: 700;
+    font-size:3.5em;
+    letter-spacing: 1em;    
+    line-height: 1.5em;
+    margin-top: 15px;
+}
+
+
+.lista a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+.lista a:hover{
+    text-decoration: none;
+    color: #fafffd;
+    
+}
+
+.mark a{
+    color: #FA824C;
+}
+
+.portada a{
+    color: #FFFD82;
+}
+
+.poster a{
+    color: #EA526F;
+}
+
+.anima a{
+    color: #A2D729;
+}

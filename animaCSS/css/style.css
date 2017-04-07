@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700');
+
+
+.home {    
+    margin: 30px auto 30px auto;
+}
+
+.home a{
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 1em;
+    letter-spacing: .4em;
+    margin-top: 0px;
+    text-decoration: none;
+    color: #342E37;
+}
+
+.home a:hover{
+    color: #FAFFFD;
+}
+
+.logo {
+    width: 70px;
+    margin-bottom: 8px;
+}
+
+.p_title{
+    margin: 30px auto 40px auto;
+}
+
+.project {
+    font-family: Poppins;
+    font-weight: 700;
+    font-size:2em;
+    letter-spacing: .4em;
+    color: #A2D729;
+}
+    
+.container {
+    background-color: #3C91E6;
+    height: 800px;
+}
+
+
+
+.canvas {
+    width:250px;
+    height:370px;
+    padding: 15px 0px
+  
+}
+
+.heartNudes {
+    margin-top: 22%;
+}
+
+
+.st0{fill:#A2D729;}
+.st1{fill:#fafffd;}
+.st2{fill:#EA526F;}
+.st3{fill:#342e37;}
+
+
+.heart {
+	transform-origin: center center;
+	-webkit-transform-origin: center center;
+	-o-transform-origin: center center;
+	-moz-transform-origin: center center;
+	animation-delay: 1s;

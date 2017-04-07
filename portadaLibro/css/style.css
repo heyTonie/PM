@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700 | Arapey:400,400i|GFS+Didot|PT+Sans:400,700');
+
+
+.home {    
+    margin: 30px auto 30px auto;
+}
+
+.home a{
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 1em;
+    letter-spacing: .4em;
+    margin-top: 0px;
+    text-decoration: none;
+    color: #342E37;
+}
+
+.home a:hover{
+    color: #FAFFFD;
+}
+
+.logo {
+    width: 70px;
+    margin-bottom: 8px;
+}
+
+.p_title{
+    margin: 30px auto 40px auto;
+}
+
+.project {
+    font-family: Poppins;
+    font-weight: 700;
+    font-size:2em;
+    letter-spacing: .4em;
+    color: #FFFD82;
+;
+}
+    
+.container {
+    background-color: #3C91E6;
+    height: 800px;
+}
+
+
+
+.canvas {
+    width:250px;
+    height:400px;
+    background-color: #342E37;
+    padding: 15px 0px;
+    background-image: url(../img/tax_owls2.jpg);
+	background-repeat: no-repeat;
+	background-size: auto 110%;
+	background-position: 77%;
+  
+}
+
+
+.b_Text {
+	margin-right: 0px;
+} 
+
+.l_Tittle {
+	margin-left: 0;
+}
+.t_One {
+	font-family: Arapey 400;
+	color:#FFFD82;
+	font-size: 6.7em;
+
+}
+.t_Two {
+	font-family: Poppins, sans-serif;
+	font-weight: 700;
+	color: #FFFD82;
+	font-size: 4.1em;
+	letter-spacing: .17em;
+	margin-top: 0px;
+    line-height: 40px
+}
+
+.s_One {
+	font-family: "Arapey", serif;
+	color: #FFFD82;
+	font-size: .5em;
+	letter-spacing: .15em;
+	text-align: center;
+    margin-top: 15px;
+	margin-bottom: 7px;
+	line-height: 25px;
+}
+.s_Two {
+	font-family: Arapey, serif;
+	font-weight: 400;
+	font-style: italic;
+	color: #FFFD82;
+	font-size: .9em;
+	letter-spacing: .19em;
+	text-align: center;
+	margin-top: 7px;
+}
+
+.author {
+    margin-top: 20px;
+	font-family: Poppins;
+	font-weight:400;
+	font-size: .9em;
+	color: #FFFD82;
+	text-align: center;
+    letter-spacing: .1em;
+
+}
+
+.b_Text {
+    width: 170px;
+    margin-top: 90px;
+    margin-left: 85px;
+    padding: 0px;
+    
+}
+.image1 {
+	
+	width:432px;
+
+} 
